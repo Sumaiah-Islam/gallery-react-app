@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gallery-react-app/static/css/main.0cc38342.css",
+    "main.js": "/gallery-react-app/static/js/main.25625adb.js",
+    "index.html": "/gallery-react-app/index.html",
+    "main.0cc38342.css.map": "/gallery-react-app/static/css/main.0cc38342.css.map",
+    "main.25625adb.js.map": "/gallery-react-app/static/js/main.25625adb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cc38342.css",
+    "static/js/main.25625adb.js"
+  ]
+}
